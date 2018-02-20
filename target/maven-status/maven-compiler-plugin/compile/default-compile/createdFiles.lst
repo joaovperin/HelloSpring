@@ -1,0 +1,10 @@
+br/com/perin/daos/CategoryDao.class
+br/com/perin/controllers/CategoryController.class
+br/com/perin/models/Product.class
+br/com/perin/daos/ProductDao.class
+br/com/perin/daos/PaginatorQueryHelper.class
+br/com/perin/controllers/ProductController.class
+br/com/perin/Boot.class
+br/com/perin/models/Category.class
+br/com/perin/models/PaginatedList.class
+br/com/perin/controllers/HomeController.class

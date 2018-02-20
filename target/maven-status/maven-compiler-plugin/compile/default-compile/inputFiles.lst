@@ -1,0 +1,10 @@
+/home/joaovperin/NetBeansProjects/HelloSpring/src/main/java/br/com/perin/Boot.java
+/home/joaovperin/NetBeansProjects/HelloSpring/src/main/java/br/com/perin/controllers/ProductController.java
+/home/joaovperin/NetBeansProjects/HelloSpring/src/main/java/br/com/perin/controllers/CategoryController.java
+/home/joaovperin/NetBeansProjects/HelloSpring/src/main/java/br/com/perin/models/Product.java
+/home/joaovperin/NetBeansProjects/HelloSpring/src/main/java/br/com/perin/models/PaginatedList.java
+/home/joaovperin/NetBeansProjects/HelloSpring/src/main/java/br/com/perin/daos/CategoryDao.java
+/home/joaovperin/NetBeansProjects/HelloSpring/src/main/java/br/com/perin/controllers/HomeController.java
+/home/joaovperin/NetBeansProjects/HelloSpring/src/main/java/br/com/perin/daos/ProductDao.java
+/home/joaovperin/NetBeansProjects/HelloSpring/src/main/java/br/com/perin/models/Category.java
+/home/joaovperin/NetBeansProjects/HelloSpring/src/main/java/br/com/perin/daos/PaginatorQueryHelper.java
